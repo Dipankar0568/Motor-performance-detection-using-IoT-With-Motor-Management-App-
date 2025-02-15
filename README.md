@@ -1,8 +1,7 @@
 # 🎯 Target Strike: Motor Performance Detection using IoT with Motor Management App
 
 ## 🚀 Overview
-Developed an IoT-based motor management system for real-time motor health monitoring and predictive maintenance. The system utilizes sensors, mobile applications, and cloud technologies to streamline motor performance tracking.
-
+Designed and deployed a motor management system using ESP32 and C++, integrating IoT, mobile apps, and predictive maintenance algorithms. Built a mobile app (Android Studio, Java) to scan QR codes and monitor motor health, reducing manual inspection time by 40%.
 ## 🤝 Contributors
 - **Dipankar Bagade**
 
